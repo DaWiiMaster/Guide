@@ -7,7 +7,7 @@
 You will need:
 - A Wii on 4.0-4.2; if you're on 4.3, use [Letterbomb](Letterbomb) instead.
 - An SD card of any size.
-- [Bannerbomb Files](/assets/files/abd6a_v200.zip)
+- [Bannerbomb Files](/assets/files/abd6a_v200.zip) Ensure you download the files for your version, else it won't work.
 - [HackMii Installer](https://bootmii.org/download) - only the ELF is needed!
 
 Steps:
