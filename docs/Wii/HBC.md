@@ -13,7 +13,7 @@ When at the HackMii installer, you will be able to install Homebrew Channel, and
 Press Continue, then select Homebrew Channel, and press install:
 ![PLACEHOLDER](http://placehold.it/350x150?text=HBC+Install)
 
-Once installed, press back and go to BootMii. If the main screen says you can install as boot2, install as boot2, otherwise IOS - boot2 can save your bacon.
+Once installed, press back and go to BootMii. If the main screen says you can install as boot2, install as boot2, it's best to install IOS as well - but only boot2 can save your bacon.
 ![PLACEHOLDER](http://placehold.it/350x150?text=BootMii+Install)
 
 Once, done, exit.
