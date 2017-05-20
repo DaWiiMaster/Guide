@@ -27,7 +27,7 @@ Steps:
 14. In the file explorer pane, press the + Button somewhere and select Paste.
 15. Put your SD Card back in your computer.
 16. Open the nwc24msg.cfg patcher .zip and drag and drop the nwc24msg.cfg you copied to your SD Card to the mail.exe program. A dialog box should open and close quickly, that's normal.
-17. Repeat steps 12-14 in reverse order, but select Paste for step 12 and Copy for step 14. A dialog box should pop up asking if you want to overwrite the file, say Yes.
+17. Repeat steps 12-14 in reverse order, but select Paste for step 12 and Copy for step 14. A dialog box should pop up asking if you want to overwrite the file, say Yes. Make sure you OVERWRITE the file, else it will cause major issues.
 18. Exit to the Wii Menu.
 
 <div class="notice">Continue to <a href="RiiConnect24">RiiConnect24!</a></div>
